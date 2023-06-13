@@ -14,7 +14,6 @@ export default function Story(story) {
                    ${story.comments_count} comments
                 </a> |
                 <span class="favorite">
-                    <img src="https://icon.now.sh/heart/ccc" />
                     Add to favorites
                 </span
             </div>
